@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Dashout</string>
+
+    <string name="home">Home</string>
+    <string name="advertise">Post Advert</string>
+    <string name="nearBy">Near By</string>
+    <string name="bookmark">Bookmarks</string>
+    <string name="checkIns">Check Ins</string>
+    <string name="search">Search</string>
+    <string name="login">Login</string>
+    <string name="searchHint">Search For Shops</string>
+
+
+    <string name="postPro">Post Item</string>
+    <string name="properties">Posted Items</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="cPassword">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="newAccount">New Account</string>
+    <string name="open">Drawer Opened</string>
+    <string name="close">Drawer Closed</string>
+    <string name="welcome">Welcome Back: </string>
+
+    <string name="contact">Contact Us</string>
+    <string name="profile">My Profile</string>
+    <string name="settings">Settings</string>
+    <string name="others">  Others</string>
+    <string name="about">About Us</string>
+    <string name="policy">Privacy Policy</string>
+    <string name="create">Create Account</string>
+    <string name="uploads">My Uploads</string>
+    <string name="upload">Upload Styles</string>
+    <string name="logout">Logout</string>
+    <string name="post">%s Item at %s</string>
+    <string name="shop">Shop Name: %s</string>
+    <string name="address">Address: %s</string>
+    <string name="desc">Description: %s</string>
+
+    <string name="aboutUs">Dashout System is an application implemented on Android Platform.
+        This application is a final year project carried out by Ogad of matric number 14/71/0000 under the supervision of the department Mrs Biodun Orunsolu.</string>
+
+
+    <string name="intro">
+        Dashout is a system design to host fashion items in order to reduce wastage.
+    </string>
+</resources>
